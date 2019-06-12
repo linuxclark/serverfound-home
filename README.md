@@ -12,9 +12,22 @@
 * contabo
 * hetzner
 
-===
-dedicated
-===
+===dedicated
+* ovh
+* soyoustart
+* dedispec
+* knowhost
+* liquidweb
+* hostdime
+* hetzner
+* ovh
+
+===reseller
+* ramnode
+* buyvm
+* hostmantis
+
+
 
 
 
